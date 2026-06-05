@@ -16,7 +16,7 @@ This project dives into the history of networking to show how humans have stayed
 ## The Tech Stack
 WIP
 
-## Interactive Element: The "Data" Ride
+## Interactive Element: The Data Ride
 
 To make the exhibit interactive, we're building a virtual "theme park ride". Instead of just reading an article, the user actually acts as a piece of "Data" traveling through different eras of communication. As the user progresses along the track, they will trigger animations, audio clips, and interactive prompts specific to that time period.
 
