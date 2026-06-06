@@ -2,11 +2,11 @@
 # CSARCH2 Virtual Exhibit: Journey of a Message
 **Section** S01
 **Members:** 
-Cubarrubias, Dion Mel
-Encarnacion, Alessandro Gabriel
-Evangelista, Aiella
-Junsay, Andre Renee
-Rodriguez, Juan Titus
+* Cubarrubias, Dion Mel
+* Encarnacion, Alessandro Gabriel
+* Evangelista, Aiella
+* Junsay, Andre Renee
+* Rodriguez, Juan Titus
 
 
 ## Project Overview
