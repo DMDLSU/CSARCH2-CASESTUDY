@@ -16,7 +16,7 @@ This project dives into the history of networking to show how humans have stayed
 ## The Tech Stack
 * ** Astro 6**
 * ** Node.js**
-* * ** React**
+* ** React**
 
 
 ## Interactive Element: The Data Ride
