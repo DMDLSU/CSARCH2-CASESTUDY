@@ -14,9 +14,9 @@ Rodriguez, Juan Titus
 This project dives into the history of networking to show how humans have stayed connected and shared data over time, taking visitors on a journey from the days of physical mail and early telephones all the way up to the fiber optic cables and WIFI networks we rely on today.
 
 ## The Tech Stack
-* ** Astro 6**
-* ** Node.js**
-* ** React**
+*  Astro 6
+*  Node.js
+*  React
 
 
 ## Interactive Element: The Data Ride
