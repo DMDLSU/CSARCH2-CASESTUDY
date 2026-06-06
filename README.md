@@ -14,7 +14,9 @@ Rodriguez, Juan Titus
 This project dives into the history of networking to show how humans have stayed connected and shared data over time, taking visitors on a journey from the days of physical mail and early telephones all the way up to the fiber optic cables and WIFI networks we rely on today.
 
 ## The Tech Stack
-WIP
+* ** Astro 6**
+* ** Node.js**
+
 
 ## Interactive Element: The Data Ride
 
@@ -30,7 +32,10 @@ Here is a breakdown of the five eras visitors will travel through:
 
 
 ## Mobile Responsive Layout
-WIP
+
+On mobile devices, the Virtual Interactive Environment will be embedded at the top of the screen, while the detailed descriptions of the data evolutions sit below it. Users will also be prompted to make their interactive choices through this lower menu area.
+
+If a user rotates their device to landscape mode, they can expand the interactive environment into full-screen mode. Once they return to portrait orientation, the descriptions and menus will smoothly reappear. As the ride progresses, the relevant text headers will dynamically highlight to match the active scene in the video, though users can easily tap on previous headers to revisit earlier information
 
 ## Tentative Style Guide Snapshot
 WIP
