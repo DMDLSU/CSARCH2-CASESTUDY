@@ -38,4 +38,13 @@ On mobile devices, the Virtual Interactive Environment will be embedded at the t
 If a user rotates their device to landscape mode, they can expand the interactive environment into full-screen mode. Once they return to portrait orientation, the descriptions and menus will smoothly reappear. As the ride progresses, the relevant text headers will dynamically highlight to match the active scene in the video, though users can easily tap on previous headers to revisit earlier information
 
 ## Tentative Style Guide Snapshot
-WIP
+
+We would have the whole area or screen black, after which a letter would appear with narration explaining how communication was back then, and it would swoop in the direction of a person. The user would have an option to choose a boat, a bird, or a carriage, as the main methods of carrying the letter.
+
+We would have a black and white filter to match the time of telegraphs and telephones, where the methods of media that people had through the screen (TV, movies, etc.) were black and white
+
+It would go have a 90's to maybe 2000's commercial theme or style
+
+It will be similar to the first area, with blue hues similar to an aquarium, showcasing the underwater fiber optic cables
+
+As we're constantly networking even when walking through social media so it would pan to a modern-day style/area, with the point-of-view of the user being them walking, scrolling through social media posts, while notifications would pop up (Twitter, Facebook, Instagram, Reddit, etc.)
