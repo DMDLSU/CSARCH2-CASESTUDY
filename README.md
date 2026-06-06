@@ -1,5 +1,5 @@
 
-# CSARCH2 Virtual Exhibit: How We Got Connected
+# CSARCH2 Virtual Exhibit: Journey of a Message
 **Section** S01
 **Members:** 
 Cubarrubias, Dion Mel
