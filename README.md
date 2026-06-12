@@ -32,6 +32,20 @@ Here is a breakdown of the five eras visitors will travel through:
 * **The Wi-Fi Era (Wireless):** A simulated social media video call taking place over a wireless connection.
 
 
+## Concepts to be discussed
+
+Each era will be shown in-depth, and will be discussed in four different categories: What kind of message is being sent, how far it could be delivered, how fast it could be delivered, and what the limitations of that era were.
+
+* **The Mail Era (Physical):** This era's main form of messages was physical, handwritten letters. This era served as the foundation for long distance communication. Its mode of delivery, boats and carriages, both varied in speed, often taking days to even months depending on the distance of the recipient. That being said, the range of its delivery was very vast, often depending on whether the area of the recipient had its dedicated courier, with its limitations being its slow delivery.
+  
+* **The Telephone Era (Switchboards):** Here, we will be introducing the first telephones and telegraphs, along with the concept of the switchboards and their operators. Through phone lines, two-way live communication was made possible. Within minutes, people were able to communicate with other people in different parts of the country, and eventually other parts of the world. This era, however, relied on the construction of phone lines and towers, requiring every area to have some in order to be connected.
+  
+* **The Internet Era (Modems):** With the introduction of the first computers, we were able to send messages such as emails and files to any computer around the world in a matter of seconds. The first websites were able to disseminate information easily, spreading data faster than ever. While being revolutionary at the time, its speed was limited, unlike today.
+  
+* **The Fiber Optic Era (Underwater Cables):** With the demand for the internet growing, these Fiber Optics were made to replace the limited data-carrying capacity of copper cables. Made of glass strands, they were able to send data packets to the recipient very fast. However, these were more expensive to make than the traditional electricity-using copper wires, and still required the devices to be connected by a wire.
+  
+* **The Wi-Fi Era (Wireless):** Where we are today. Messages in the form of texts, videos, movies, and many more can now be sent to anyone around the world without the need for wires. This allowed for the use of mobile devices such as phones, which allowed messages to be sent anywhere, anytime, as long as it was connected to the network.
+
 ## Mobile Responsive Layout
 
 On mobile devices, the Virtual Interactive Environment will be embedded at the top of the screen, while the detailed descriptions of the data evolutions sit below it. Users will also be prompted to make their interactive choices through this lower menu area.
