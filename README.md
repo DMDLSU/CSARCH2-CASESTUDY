@@ -32,7 +32,7 @@ Here is a breakdown of the five eras visitors will travel through:
 * **The Wi-Fi Era (Wireless):** A simulated social media video call taking place over a wireless connection.
 
 
-## Concepts to be discussed
+## Concepts to be discussed [Revised]
 
 Each era will be shown in-depth, and will be discussed in four different categories: What kind of message is being sent, how far it could be delivered, how fast it could be delivered, and what the limitations of that era were.
 
